@@ -1,4 +1,4 @@
-# RIBOmap
+# STARmap/RIBOmap analysis in Chowdhury et al.
 
 <!-- ![image](.example_image.jpg) -->
 
