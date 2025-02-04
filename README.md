@@ -2,7 +2,7 @@
 
 <!-- ![image](.example_image.jpg) -->
 
-This repository contains scripts for the '**Brainstem neuropeptidergic neurons link a neurohumoral axis to satiation**'. 
+<!-- This repository contains scripts for the '**Brainstem neuropeptidergic neurons link a neurohumoral axis to satiation**'.  -->
 
 1. ```DRNSpatialSeq_1_Filtering.ipynb``` (single cell QC for STARmap/RIBOmap data)
 2. ```DRNSpatialSeq_2_PreprocessingAndIntegration.ipynb``` (preprocessing and data integration)
