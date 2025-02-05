@@ -1,8 +1,8 @@
 # STARmap/RIBOmap analysis in Chowdhury et al.
 
-<!-- ![image](.example_image.jpg) -->
+![image](.example_image.jpg)
 
-<!-- This repository contains scripts for the '**Brainstem neuropeptidergic neurons link a neurohumoral axis to satiation**'.  -->
+This repository contains scripts for the '**Brainstem neuropeptidergic neurons link a neurohumoral axis to satiation**'. 
 
 1. ```DRNSpatialSeq_1_Filtering.ipynb``` (single cell QC for STARmap/RIBOmap data)
 2. ```DRNSpatialSeq_2_PreprocessingAndIntegration.ipynb``` (preprocessing and data integration)
@@ -12,21 +12,18 @@
 
 ### Other Info
 
-<!-- #### Citation
+#### Citation
 
 Please cite our paper if you find our work useful.: 
 
-> [Zeng, H., Huang, J., Ren, J., Wang, C.K., Tang, Z., Zhou, H., Zhou, Y., Shi, H., Aditham, A., Sui, X. and Chen, H., 2023. Spatially resolved single-cell translatomics at molecular resolution. *Science*, *380*(6652), p.eadd3067.](https://www.science.org/doi/10.1126/science.add3067) -->
+> [Srikanta Chowdhury, Nachiket G. Kamatkar, Wendy Xueyi Wang, Christa A. Akerele, Jiahao Huang, Junlin Wu, Amajindi Nwankpa, Charlotte M. Kane, Varun M. Bhave, Hao Huang, Xiao Wang, Alexander R. Nectow, 2025. Brainstem neuropeptidergic neurons link a neurohumoral axis to satiation. *Cell*](https://www.cell.com/cell/fulltext/S0092-8674(25)00047-9) -->
 
-<!-- #### Related Dataset 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8041114.svg)](https://doi.org/10.5281/zenodo.8041114)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8041323.svg)](https://doi.org/10.5281/zenodo.8041323)
-
+#### Related Dataset
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14805731.svg)](https://doi.org/10.5281/zenodo.14805731)
+10.5281/zenodo.14805731
 The related datasets can be found:
-1. [Single Cell Portal](https://singlecell.broadinstitute.org/single_cell/study/SCP1835)
-2. [Zenodo - Gene expression dataset](https://doi.org/10.5281/zenodo.8041114) 
-3. [Zenodo - Processed image dataset](https://doi.org/10.5281/zenodo.8041323) 
-* ***Please use the most recent version of the dataset.*** -->
+1. [Zenodo - Spatial sequencing dataset of the mouse DRN](https://doi.org/10.5281/zenodo.14805731) 
+* ***Please use the most recent version of the dataset.***
 
 #### Contact
 Contact us at wendyw@broadinstitute.org / jiahao@broadinstitute.org if you have any issues. 
